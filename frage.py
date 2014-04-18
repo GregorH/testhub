@@ -23,7 +23,7 @@
 
 
 def main():
-	$vorname = input('Bitte gib deinen Namen ein')
+	vorname = input('Bitte gib deinen Namen ein: ')
 	return 0
 
 if __name__ == '__main__':
