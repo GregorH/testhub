@@ -21,9 +21,12 @@
 #  MA 02110-1301, USA.
 
 
+from frage import frage
 
 def main():
 	print('Hallo Welt')
+	vorname = frage()
+	print(vorname)
 	return 0
 
 if __name__ == '__main__':

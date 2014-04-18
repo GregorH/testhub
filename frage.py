@@ -22,7 +22,7 @@
 
 
 
-def main():
+def frage():
 	vorname = input('Bitte gib deinen Namen ein: ')
 	return 0
 
